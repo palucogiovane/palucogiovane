@@ -54,6 +54,6 @@
   ## 📫 Contatos
 
   <a href="mailto:giovanelealpaluco@gmail.com"><code><img  width="40px" src="https://icongr.am/clarity/email.svg?size=128&color=currentColor"/></code></a>
-  <a href=""><code><img  width="40px" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor"/></code></a>
+  <a href="https://www.linkedin.com/in/giovane-paluco-4444b0179/"><code><img  width="40px" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor"/></code></a>
 
 </div>
