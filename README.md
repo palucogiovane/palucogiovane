@@ -10,7 +10,7 @@
   <p>Olá, me chamo Giovane Leal Paluco, tenho 22 anos, sou brasileiro e moro em Campinas-SP</p>
   <br>
 
-  ## 📚 Formaçoes 
+  ## 📚 Formações 
   
   - 👨‍🎓 Formação Técnica em Mecatrônica pelo SENAI "Roberto Mange"
   - 👨‍🎓 Formação Técnica em Biotecnologia pela ETECAP
