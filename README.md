@@ -5,8 +5,6 @@
 <div>
 
   ## Um pouco sobre mim...
-  
-  <br>
   <p>Olá, me chamo Giovane Leal Paluco, tenho 22 anos, sou brasileiro e moro em Campinas-SP</p>
   <br>
 
