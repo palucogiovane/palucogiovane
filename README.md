@@ -20,7 +20,7 @@
   - 🤓 Data Science com Python pelo SENAI "Roberto Mange"
   - 🤓 Leitura e Interpretação de Desenho Técnico Mecânico pelo SENAI "Roberto Mange"
   - 📚 Estudando Desenvolvimento Web pela Udemy
-  - 📚 Amante da tecnologia, sempre curioso e disposto a aprender. Buscando sempre a melhoria pessoal e profissional
+  - ✨ Amante da tecnologia, sempre curioso e disposto a aprender. Buscando sempre a melhoria pessoal e profissional
     <br>
 </div>
 
