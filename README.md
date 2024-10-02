@@ -1,5 +1,5 @@
 <div align=center>
-<h1>Giovane Paluco</h1>
+<h1><code><img  width="40px" src="https://github.com/user-attachments/assets/0e0757fd-b3fe-4616-b788-0d3c30d0f19c"/></code> Giovane Paluco <code><img  width="40px" src="https://github.com/user-attachments/assets/5274965e-62ed-4473-b7f3-bda1515335b5"/></code></h1>
 </div>
 
 <div>
