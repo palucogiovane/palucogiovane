@@ -5,7 +5,9 @@
 <div>
 
   ## Um pouco sobre mim...
-  <p>Olá, me chamo Giovane Leal Paluco, tenho 22 anos, sou brasileiro e moro em Campinas-SP</p>
+  <p>Olá, me chamo Giovane Leal Paluco, tenho 22 anos, sou brasileiro e moro em Campinas-SP.</p>
+  <p>Amante da tecnologia, sempre curioso e disposto a aprender. Buscando sempre a melhoria pessoal e profissional.</p>
+  
   <br>
 
   ## 📚 Formações 
@@ -20,7 +22,6 @@
   - 🤓 Data Science com Python pelo SENAI "Roberto Mange"
   - 🤓 Leitura e Interpretação de Desenho Técnico Mecânico pelo SENAI "Roberto Mange"
   - 📚 Estudando Desenvolvimento Web pela Udemy
-  - ✨ Amante da tecnologia, sempre curioso e disposto a aprender. Buscando sempre a melhoria pessoal e profissional
     <br>
 </div>
 
