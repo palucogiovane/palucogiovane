@@ -19,7 +19,7 @@
   - 🤓 Programação em Python pelo SENAI "Roberto Mange"
   - 🤓 Soluções Integradas com IoT pelo SENAI "Roberto Mange"
   - 🤓 AZ-900 - Computação em Nuvem pelo SENAI "Roberto Mange"
-  - 🤓 Data Science com Python pelo SENAI "Roberto Mange"
+  - 🤓 Fundamentos de Data Science com Python pelo SENAI "Roberto Mange"
   - 🤓 Leitura e Interpretação de Desenho Técnico Mecânico pelo SENAI "Roberto Mange"
   - 📚 Estudando Desenvolvimento Web pela Udemy
     <br>
